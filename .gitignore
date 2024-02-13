@@ -1,0 +1,12 @@
+.idea
+.DS_STORE
+/.env
+/.nyc_output
+/coverage
+/dist
+/node_modules
+/notes.md
+/npm-debug.log
+/storage
+/yarn-error.log
+/yarn.lock
